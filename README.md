@@ -1,0 +1,1 @@
+# Skote-starter-kit
